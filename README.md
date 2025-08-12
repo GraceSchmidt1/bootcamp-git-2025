@@ -5,7 +5,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 (see instructions)
 
-**Name:** Grace Schmidt
+**Name:** Grace Schmidt :)
 
 **Hobbies:**
 
